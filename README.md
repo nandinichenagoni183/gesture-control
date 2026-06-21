@@ -62,7 +62,7 @@ python -V
 ## Step 1 — Download the code
 
 ```bash
-https://github.com/nandinichenagoni183/gesture-control
+https://github.com/nandinichenagoni183/gesture-control/blob/main/main.py
 ```
 
 ---
